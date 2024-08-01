@@ -459,3 +459,54 @@ hr {
     margin: 4rem 0;
     align-items: center;
 }
+
+.section-six {
+    min-height: 80vh;
+    /* width: 90%; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: url(assets/Consumer-1.png);
+    background-position: top center;
+    background-size: cover;
+    border-radius: 24px;
+    margin: 0 2rem;
+    color: white;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0 0 2rem 0;
+}
+
+.expand {
+    font-size: 56px;
+    line-height: 61px;
+    font-weight: 700;
+}
+
+ .section-six-cards {
+     display: flex;
+     gap: 1rem;
+     padding: 0 3rem;
+
+ }
+.card-6 {
+    border: solid 2px rgba(200, 200, 200, .15);
+    border-radius: 24px;
+    background-color: rgba(200, 200, 200, .15);
+    backdrop-filter: blur(20px);
+    padding: 60px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    width: 33.3333%;
+}
+
+.card-6 p{
+    text-align: center;
+}
+
+.six-title {
+    font-size: 24px;
+    font-weight: 700;
+}

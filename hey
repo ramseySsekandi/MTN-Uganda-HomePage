@@ -1,0 +1,20 @@
+<div class="carousel-section desktop-only textLight carousel-short" style="background: url(&quot;https://www.mtn.co.ug/wp-content/uploads/sites/7/2023/01/Bitmap.png&quot;) center top / cover; text-decoration: initial;">
+        <div class="carousel-heading-section">
+            <h2 class="mtn-heading" style="text-decoration: initial;">Expand your world</h2>
+        </div>
+                        <div class="long-info-slider slick-initialized slick-slider slick-dotted" style="text-decoration: initial;">
+                                <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 909px; transform: translate3d(0px, 0px, 0px); text-decoration: initial;"><div class="mtn-carousel-card slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 303px;" tabindex="0" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
+                                        <p class="mtn-carousel-card-title">MoMo</p>
+                                            <p class="mtn-carousel-card-category">Send and receive money on your phone, shop with MoMoPay the easy way.</p>
+                                                        </div><div class="mtn-carousel-card slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 303px; text-decoration: initial;" tabindex="0" role="tabpanel" id="slick-slide01">
+                                        <p class="mtn-carousel-card-title" style="text-decoration: initial;">MTN App</p>
+                                            <p class="mtn-carousel-card-category" style="text-decoration: initial;">Manage your account, earn rewards and recharge.</p>
+                                                        </div><div class="mtn-carousel-card slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 303px; text-decoration: initial;" tabindex="0" role="tabpanel" id="slick-slide02">
+                                        <p class="mtn-carousel-card-title" style="text-decoration: initial;">Smartphone </p>
+                                            <p class="mtn-carousel-card-category" style="text-decoration: initial;">Get an MTN smartphone and pay mpola mpola.</p>
+                                                        </div></div></div>
+                                
+                                
+                            <ul class="slick-dots" role="tablist" style="text-decoration: initial;"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 1" tabindex="0" aria-selected="true">1</button></li></ul></div>
+            
+    </div>
